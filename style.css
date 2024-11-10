@@ -14,17 +14,6 @@ li, a{
     color: #512da8;
     text-decoration: none;
 }
-button{
-    color: #ccc;
-}
-
-header{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 30px 10%;
-
-}
 
 .logo {
     cursor: pointer;
